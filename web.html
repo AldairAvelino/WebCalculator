@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="progress-bar.css">
+	<script src="jquery-1.11.2.min.js"></script>
+	<script src="progress-bar.js"></script>
+	<title>Calculadora Web</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<link rel="shortcut icon" href="Applications.ico">
+	<script type="text/javascript" src = "script.js"></script>
+</head>
+<body>
+<div id="center">
+
+	<form id="calculo">
+		<fieldset>
+			<legend>Calculator version 0.0.1</legend>
+			
+			<label>Valor de [A]
+				<input class = "margin" type="text" name="valorA">
+			</label>
+
+			<br>
+			<br>
+
+			<label>Valor de [B]
+				<input class = "margin" type="text" name="valorB">
+			</label>
+			
+			<br>
+			<br>
+			<label class = "total">Resultado Final
+				<input type="text" name="result" disabled = "disabled">
+			</label>			
+		</fieldset>
+	
+	
+		<div>
+			<fieldset class="op">
+				<legend>Opções</legend>
+				<button><a href="#" onclick="multiplicar();">Multiplicar</a></button>
+				<button><a href="#" onclick="dividir();">Dividir</a></button>
+				<button><a href="#" onclick="somar();">Somar</a></button>
+				<button><a href="#" onclick="subtrair();">Subtrair</a></button>
+			</fieldset>
+		</div>
+
+	</form>
+</div>
+</body>
+</html>
