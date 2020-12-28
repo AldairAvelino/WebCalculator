@@ -1,0 +1,43 @@
+body{
+	background-color: gray;
+}
+
+legend{
+	text-align: center;
+	font-family: Times;
+	font-size: 24px;
+}
+
+fieldset{
+	width: 300px;
+}
+
+label .margin{
+	background-color: black;
+	margin-left: 33px;
+	color: white; 
+}
+
+.total input{
+	background-color: gray;
+	color: blue;
+}
+
+input{
+	margin-left: 10px;
+}
+
+a{
+	text-align: center;
+	text-decoration: none;
+	color: green;
+}
+
+.op{
+	padding-left: 20px;
+	width: 293px;
+}
+
+#center{
+	padding: 180px 20px 10px 450px;
+}
