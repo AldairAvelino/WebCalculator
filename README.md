@@ -5,4 +5,4 @@ This is a simple Calculator, I did this calculator to help people doing simple M
 2. CSS
 3. JS
 
-For more information please get at [Pequeno Dev](https://www.facebook.com/pequenoDev) link.
+For more information please get at [Pequeno Dev](https://www.facebook.com/pequenoDev) link, and you can also get and subscribe at our [YouTube channel](https://www.youtube.com/channel/UCVqEWvRdjECsw9OyFM2II2g?view_as=subscriber).
